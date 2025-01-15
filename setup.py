@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='lockis',
     packages=['lockis'],
-    version='1.0.1',
+    version='1.0.2',
     python_requires=">=3.6",
     license='Apache 2.0',
     description='Encrypt your private data with double aes256, hmac and with ttl.',
