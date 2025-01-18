@@ -2,6 +2,14 @@
 
 Easily encrypt your sensitive data with double aes256+hmac and with ttl.
 
+## Installing 
+
+```
+pip install lockis
+```
+
+## Usage
+
 ```
 # import the module
 import lockis
