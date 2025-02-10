@@ -10,7 +10,7 @@ pip install lockis
 
 ## Usage
 
-```
+```python
 # import the module
 import lockis
 
